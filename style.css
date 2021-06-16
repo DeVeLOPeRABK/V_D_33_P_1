@@ -128,7 +128,7 @@ ul.primary_menu li ul li a:hover{
 }
 /*banner css */
 .banner{
-    /* background: url(./img/main-banner2.jpg) no-repeat center center; */
+    background: url(./img/main-banner2.jpg) no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
 
